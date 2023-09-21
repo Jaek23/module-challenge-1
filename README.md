@@ -14,4 +14,10 @@ N/A
 
 ## License 
 
-Please reder to the license in the repo. 
+Please refer to the license in the repo. 
+
+## Link to deployed website 
+
+https://jaek23.github.io/module-challenge-1/   
+
+## Screenshot of website 
