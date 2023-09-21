@@ -21,3 +21,4 @@ Please refer to the license in the repo.
 https://jaek23.github.io/module-challenge-1/   
 
 ## Screenshot of website 
+![module-challenge-1](https://github.com/Jaek23/module-challenge-1/assets/141678374/015e5f12-8584-46d2-8281-a75412654a13)
